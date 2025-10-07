@@ -6,7 +6,7 @@ public class Level
     /** Returns true if the player reached the goal on this level and returns false otherwise */
     public boolean goalReached()
     {
-        return goalReached();
+        return goalReached;
     }
 
     public void reachGoal()
